@@ -1,19 +1,19 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/opsani/cli/releases/download/v0.1.3/opsani-cli_0.1.3_windows_386.zip",
+            "url": "https://github.com/opsani/cli/releases/download/v0.1.4/opsani-cli_0.1.4_windows_386.zip",
             "bin": [
                 "bin/opsani.exe"
             ],
-            "hash": "dea28988b84d235bbe3f7353276629a33a1176ff88ba0cd0a4125099ab47f1b4"
+            "hash": "f1d48b6e752cce4c8dc5dfc6c58d11e75eadace36672dbd4bbf2d46f981ef873"
         },
         "64bit": {
-            "url": "https://github.com/opsani/cli/releases/download/v0.1.3/opsani-cli_0.1.3_windows_amd64.zip",
+            "url": "https://github.com/opsani/cli/releases/download/v0.1.4/opsani-cli_0.1.4_windows_amd64.zip",
             "bin": [
                 "bin/opsani.exe"
             ],
-            "hash": "e7ae7107c6e12bdab2fa264388b300d15f87f8fa4d82e58b2ee63a09868311f2"
+            "hash": "ab50233a092a5aaeed8c1e3a399f80eeff088b9eb7b98df9050dde59621cbb1f"
         }
     },
     "homepage": "https://github.com/opsani/cli",
