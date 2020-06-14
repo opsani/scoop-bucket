@@ -6,14 +6,14 @@
             "bin": [
                 "bin/opsani.exe"
             ],
-            "hash": "2c920915cefdc0c24d7a4975bf64c670e62fd09cbb6c6c473fab6618aecdbcdc"
+            "hash": "00d7f792b7dde0608b32e493e5e2e2c39c352707521ce9e3383763ba746537e8"
         },
         "64bit": {
             "url": "https://github.com/opsani/cli/releases/download/v0.2.0/opsani-cli_0.2.0_windows_amd64.zip",
             "bin": [
                 "bin/opsani.exe"
             ],
-            "hash": "e4856d8ba95744518595205cd97f8d88b91b716bc5f953b7dccaf4e3a7aa93eb"
+            "hash": "1fd42a44c848cecdc8a39b575e6861c4565971f2862c4056658a5aabee01e343"
         }
     },
     "homepage": "https://github.com/opsani/cli",
